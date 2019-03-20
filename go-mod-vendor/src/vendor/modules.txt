@@ -1,0 +1,8 @@
+# github.com/go-ozzo/ozzo-routing v2.1.4+incompatible
+github.com/go-ozzo/ozzo-routing
+github.com/go-ozzo/ozzo-routing/access
+github.com/go-ozzo/ozzo-routing/content
+github.com/go-ozzo/ozzo-routing/fault
+github.com/go-ozzo/ozzo-routing/slash
+# github.com/golang/gddo v0.0.0-20190312205958-5a2505f3dbf0
+github.com/golang/gddo/httputil/header
