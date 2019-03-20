@@ -1,0 +1,4 @@
+github.com/go-ozzo/ozzo-routing v2.1.4+incompatible h1:gQmNyAwMnBHr53Nma2gPTfVVc6i2BuAwCWPam2hIvKI=
+github.com/go-ozzo/ozzo-routing v2.1.4+incompatible/go.mod h1:hvoxy5M9SJaY0viZvcCsODidtUm5CzRbYKEWuQpr+2A=
+github.com/golang/gddo v0.0.0-20190312205958-5a2505f3dbf0 h1:CfaPdCDbZu8jSwjq0flJv2u+WreQM0KqytUQahZ6Xf4=
+github.com/golang/gddo v0.0.0-20190312205958-5a2505f3dbf0/go.mod h1:xEhNfoBDX1hzLm2Nf80qUvZ2sVwoMZ8d6IE2SrsQfh4=
